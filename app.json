@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "peacepad",
+    "slug": "peacepad",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "plugins": [
+      "expo-mail-composer"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2c2a4098-31f4-4a20-932a-d130dcbb531b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2c2a4098-31f4-4a20-932a-d130dcbb531b"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
